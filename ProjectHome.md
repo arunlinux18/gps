@@ -1,0 +1,1 @@
+GPS\_Project: would be the project for the project programming course for the first year students in IT-University of Gothenburg. There are 7 people in each group who should present a software by Java which gets the coordinates from GPS device and shows the cureent location on the map. In addition, there should be more features to pass the course as well.
